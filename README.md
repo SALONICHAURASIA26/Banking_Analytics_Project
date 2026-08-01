@@ -54,21 +54,6 @@ One-page dashboard with KPI cards, filters for year/month/branch/account type/lo
 
 - **Keep an eye on customer concentration over time.** It's low right now (4% from the top 10), but that's the kind of number worth checking every month or quarter so it doesn't creep up unnoticed.
 
-## Files
-
-```
-├── sql/
-│   ├── 01_table_creation.sql
-│   ├── 02_foreign_key.sql
-│   ├── 03_business_analysis.sql
-│   └── 04_views.sql
-├── dashboard/
-│   └── Banking_Dashboard.pbix
-├── docs/
-│   └── Insights_and_Recommendations.docx
-└── README.md
-```
-
 ## Author
 
 Saloni Chaurasia
